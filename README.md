@@ -1,6 +1,6 @@
 # <span id="tjidtitle">Organization Structure Module</span>
 
-<div>Technologies: <span id="tjidtechs">Yii2, MySQL, Treant.js</span></div>
+<div>Technologies: <span id="tjidtechs">Yii2, PHP, MySQL, Treant.js</span></div>
 <br />
 
 I created this module because i realized how crucial it is, it serves as the foundation for other modules. In a company where its framework is integral to various business processes, maintaining this tree-like type of data, connecting elements as parents, children, and siblings becomes critical. Other modules like leave permissions, reporting, and budgeting (which i've developed and will be explained separately) will greatly benefit from this organizational structure module. Let's dive deeper into an explanation of this module. This module was developed on top of Yii2 PHP framework, MySQL database, and Treant.js library.
